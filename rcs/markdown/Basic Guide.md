@@ -148,3 +148,10 @@ Markdown es sencillo: empieza con lo básico y ve agregando tablas, listas y enl
 
 Si quieres, puedo hacer una versión aún más resumida y visual, lista para pegar en tu repositorio como “Guía rápida para nuevos colaboradores”, con ejemplos prácticos de enlaces, imágenes y listas que ellos puedan copiar directamente.
 
+[Generador de Tablas](https://www.tablesgenerator.com/markdown_tables)
+
+| Heramienta | Version |   |   |   |
+|------------|---------|---|---|---|
+|            |         |   |   |   |
+|            |         |   |   |   |
+|            |         |   |   |   |
